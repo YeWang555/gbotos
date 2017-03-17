@@ -16,6 +16,55 @@
     <string name="title_activity_admin_login">Sign in</string>
     <string name="title_activity_scorer_login">Sign in</string>
     <string name="title_activity_main_menu">MainMenu</string>
+    <string-array name="state_names">
+        <item>Alabama,AL</item>
+        <item>Alaska, AK</item>
+        <item>Arizona, Phoenix</item>
+        <item>Arkansas, AR</item>
+        <item>Colorado, CO</item>
+        <item>Connecticut, CT</item>
+        <item>Delaware, DE</item>
+        <item>Florida, FL</item>
+        <item>Georgia, GA</item>
+        <item>Hawaii, HI</item>
+        <item>Idaho,ID</item>
+        <item>Illinois, IL</item>
+        <item>Indiana, IN</item>
+        <item>Iowa, IA</item>
+        <item>Kansas, KS</item>
+        <item>Kentucky, KY</item>
+        <item>Louisiana, LA</item>
+        <item>Maine, ME</item>
+        <item>Maryland, MD</item>
+        <item>Massachusetts, MA</item>
+        <item>Michgan, MI</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+        <item>Maryland, MD</item>
+
+        <item>Maryland, MD</item>
+
+
+
+
+
+
+
+    </string-array>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
